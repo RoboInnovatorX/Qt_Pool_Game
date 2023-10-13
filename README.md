@@ -13,6 +13,9 @@ This repository contains the source code for a simple pool game implemented in C
 - **Movement and Bouncing:** The ball moves within the table, bouncing off the walls. The speed can be controlled by the user.
 
 - **Pause and Resume:** Pause and resume the ball's movement using the "Pause" checkbox.
+  
+## Video Demonstration
+[![Watch Video](https://img.youtube.com/vi/MH_-1f8qU1E/0.jpg)](https://youtu.be/OlvX0-1hrG8?si=SQ3VEbnFgZYKteeQ)
 
 ## Controls
 
