@@ -15,7 +15,8 @@ This repository contains the source code for a simple pool game implemented in C
 - **Pause and Resume:** Pause and resume the ball's movement using the "Pause" checkbox.
   
 ## Video Demonstration
-[![Watch Video](https://img.youtube.com/vi/MH_-1f8qU1E/0.jpg)](https://youtu.be/OlvX0-1hrG8?si=SQ3VEbnFgZYKteeQ)
+[![Simple Pool Game](Simple%20Pool%20Game/Pool_Game.PNG)](https://youtu.be/OlvX0-1hrG8?si=SQ3VEbnFgZYKteeQ)
+
 
 ## Controls
 
